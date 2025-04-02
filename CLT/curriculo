@@ -9,7 +9,8 @@
 <body>
 <center>
    <h1> Ezequiel David Borges </h1>
-   <h2> Analista de sistemas </h2>
+   <h2> Analista e desenvolvedor de sistemas </h2>
+   <img src="IMGS/Mídia.jpg" alt="Ezequiel" width="300" height="400">
 </center>
 
     <h2> Sobre mim </h2>
@@ -17,6 +18,7 @@
         Sou um aluno de ADS do Senac no segundo período. Tenho habilidades em JavaScript, HTML e CSS, e estou sempre buscando aprender novas tecnologias e aprimorar minhas competências. Tenho capacidade pa resolver problemas e facilidade pra trabalhar em equipe, sempre focado em entregar soluções eficientes e inovadoras.
     </p>
     <p>
+        <hr>
     <h2>Contato</h2>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Ezequiel" width="30" height="30"> Email: <a href="mailto:ezequiellsouzaa13@gmail.com">ezequiellsouzaa13@gmail.com</a><br>
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Descrição da nova imagem" width="30" height="30"> GitHub: <a href="https://github.com/kiellzz" target="_blank">github.com/kiellzz</a>
@@ -24,10 +26,12 @@
     <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" height="30" width="30" <a href="https://www.linkedin.com/in/ezequiel-borges-a83a1130a/"></a> LinkedIn: <a href="https://www.linkedin.com/in/ezequiel-borges-a83a1130a/" target="_blank">
         https://www.linkedin.com/in/ezequiel-borges-a83a1130a/</a>
     </p>
-    Formação
+    <hr>
+    <h2>Formação</h2>
         <li>Ensino médio completo, no Colégio Ideia</li>
-        <li>Curso de ADS no Senac, em andamento (2024-2026) </li>
-
+        <li>Curso de ADS no Senac, em andamento (2024-2026) 
+        <li>Curso de inglês, na Cultura Inglesa</li>
+<hr>
         <h2>Hard skills</h2>
       <table>
         <tr>
@@ -43,9 +47,10 @@
         <tr>
             <td>HTML/CSS</td>
             <td>Básico</td>
-            
+        
         </tr>
       </table>
+      <hr>
     <p><h2>Experiência profissional</h2></p>
       <table>
         <tr>
@@ -64,6 +69,11 @@
             <td>Projeto Integrador: aplicativo voltado pro turismo em Pernambuco</td>
         </tr>
       </table>
-
+<hr>
       <h2>Endereço</h2>
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3950.4314588047073!2d-34.93438832411019!3d-8.057395480501688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ab194727eaeecb%3A0x7fd69f18dc8da2d4!2sR.%20Ant%C3%B4nio%20Valdevino%20Costa%2C%20Recife%20-%20PE!5e0!3m2!1spt-PT!2sbr!4v1743599328853!5m2!1spt-PT!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<hr>
+    <footer>
+        <p>Desenvolvido por Ezequiel David Borges</p>
+
+    </footer>
