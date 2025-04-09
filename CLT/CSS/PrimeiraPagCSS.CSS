@@ -1,0 +1,10 @@
+p {font-family: Arial, Helvetica, sans-serif;}
+body {background-color: #86866e;
+background: linear-gradient(to left, #421212 0%, #1f1557 100%);}
+
+#cor { color: #b49a03e0}
+#cor2 { color: #b49a03e0}
+.animacao:hover{
+    color: red;
+    cursor: pointer;
+}
