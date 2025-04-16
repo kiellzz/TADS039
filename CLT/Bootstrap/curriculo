@@ -16,21 +16,22 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-4">
-                <img src="IMGS/Mídia.jpg" alt="Ezequiel" class="img-fluid" width="175" height="80">
+                <img src="IMGS/Mídia.jpg" alt="Ezequiel" class="img-fluid" width="150" height="150">
             </div>
         
     <div class="col-8 text-center">
-       
+        <p style="margin-top: 80px;"></p>
    <h1> Ezequiel David Borges </h1></p>
    <h2> Analista e desenvolvedor de sistemas </h2></div>
-
-    <h2> Sobre mim </h2>
+   <P></P>
+<hr>
+    <h2><strong>Sobre mim</strong></h2><div></div>
     <p>
         Sou um aluno de ADS do Senac no segundo período. Tenho habilidades em JavaScript, HTML e CSS, e estou sempre buscando aprender novas tecnologias e aprimorar minhas competências. Tenho capacidade pa resolver problemas e facilidade pra trabalhar em equipe, sempre focado em entregar soluções eficientes e inovadoras.
     </p>
     <p>
         <hr>
-        <h2 id="cor2">Contato</h2>
+        <h2 id="cor2"><strong>Contato</strong></h2>
         <p id="cor">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Ezequiel" width="30" height="30"> Email: <a id="cor2" href="mailto:ezequiellsouzaa13@gmail.com"> <span class="animacao">ezequiellsouzaa13@gmail.com</span></a> <br> </p>
         <p id="cor">
@@ -39,13 +40,14 @@
         <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" height="30" width="30"> </a> LinkedIn: <a id="cor2" href="https://www.linkedin.com/in/ezequiel-borges-a83a1130a/" target="_blank"><span class="animacao">
             https://www.linkedin.com/in/ezequiel-borges-a83a1130a/</span></a> </p>
     <hr>
-    <h2>Formação</h2>
+    <h2><strong>Formação</strong></h2><div></div>
         <li>Ensino médio completo, no Colégio Ideia</li>
         <li>Curso de ADS no Senac, em andamento (2024-2026) 
         <li>Curso de inglês, na Cultura Inglesa</li>
+        <p></p>
 <hr>
-        <h2>Hard skills</h2>
-      <table>
+        <h2><strong>Hard skills</strong></h2>
+      <table class="table table-striped">
         <tr>
             <th>Habilidades</th>
             <th>Nível</th>
@@ -63,8 +65,8 @@
         </tr>
       </table>
       <hr>
-    <p><h2>Experiência profissional</h2></p>
-      <table>
+    <p><h2><strong>Experiência profissional</strong></h2></p>
+    <table class="table table-striped">
         <tr>
         <th>Experiência</th>
         <th>Período</th>
@@ -82,10 +84,11 @@
         </tr>
       </table>
 <hr>
-      <h2>Endereço</h2>
+      <h2><strong>Endereço</strong></h2>
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3950.4314588047073!2d-34.93438832411019!3d-8.057395480501688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ab194727eaeecb%3A0x7fd69f18dc8da2d4!2sR.%20Ant%C3%B4nio%20Valdevino%20Costa%2C%20Recife%20-%20PE!5e0!3m2!1spt-PT!2sbr!4v1743599328853!5m2!1spt-PT!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <p></p>
 <hr>
     <footer>
-        <p>Desenvolvido por Ezequiel David Borges</p>
+        <p><strong>&copy; 2025  Desenvolvido por Ezequiel David Borges</strong></p>
 
     </footer>

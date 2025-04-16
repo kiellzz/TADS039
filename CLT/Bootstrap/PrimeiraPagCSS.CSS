@@ -1,17 +1,17 @@
 p {font-family: Arial, Helvetica, sans-serif;}
 body {background-color: #86866e;
-background: linear-gradient(to left, #421212 0%, #1f1557 100%);}
+background: linear-gradient(to left, #88187f 0%, #0c97a1 100%);}
 
-#cor { color: #b49a03e0}
-#cor2 { color: #b49a03e0}
+#cor { color: #ffffffe0}
+#cor2 { color: #ffffffe0}
 .animacao:hover{
-    color: red;
+    color: rgb(0, 255, 98);
     cursor: pointer;
 }
 
-h2{color: #b49a03e0}
-h1{color: #b49a03e0}
-p{color: #b49a03e0}
-li{color: #b49a03e0}
-tr{color: #b49a03e0}
-th{color: #b49a03e0}
+h2{color: #ffffffe0}
+h1{color: #ffffffe0}
+p{color: #ffffffe0}
+li{color: #ffffffe0}
+tr{color: #ffffffe0}
+th{color: #ffffffe0}
