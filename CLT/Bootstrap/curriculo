@@ -16,13 +16,13 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-4">
-                <img src="IMGS/Mídia.jpg" alt="Ezequiel" class="img-fluid" width="150" height="150">
+                <img src="IMGS/Mídia.jpg" alt="Ezequiel" class="img-fluid" width="250">
             </div>
         
     <div class="col-8 text-center">
-        <p style="margin-top: 80px;"></p>
-   <h1> Ezequiel David Borges </h1></p>
-   <h2> Analista e desenvolvedor de sistemas </h2></div>
+        <p style="margin-top: 100px;"></p>
+   <h1 style="font-size: 50px;"> Ezequiel David Borges </h1></p>
+   <h2 style="font-size: 50px;"> Analista e desenvolvedor de sistemas </h2></div>
    <P></P>
 <hr>
     <h2><strong>Sobre mim</strong></h2><div></div>
